@@ -8,7 +8,7 @@
     2.直接使用tricontour或tricontourf的方式实现
         ir_contour_plot_by_tricontour(fig, ax2, x, y, z, npts)
 作者：官方文档人员
-编辑：冯保龙
+编辑：独行的旅人
 时间：2019-04-14
 """
 
